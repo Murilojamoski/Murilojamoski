@@ -1,16 +1,43 @@
-## Hi there 👋
+<h2 align="left">Oi! meu nome é Murilo</h2>
 
-<!--
-**Murilojamoski/Murilojamoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 
 
-Here are some ideas to get you started:
+<h3 align="left">Sobre Mim</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 
+
+<p align="left">* Estudante de informática no IFC Araquari<br>* 16 anos<br>* Produtor Musical</p>
+
+### 
+
+<h3 align="left">Conhecimentos em:</h3>
+
+### 
+
+<div align="left" style="display: flex; align-items: center;">
+  <!-- Texto e ícones à esquerda -->
+  <div>
+    <p align="left">* Estudante de informática no IFC Araquari<br>* 16 anos<br>* Produtor Musical</p>
+    <h3 align="left">Conhecimentos em:</h3>
+    <div align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+    </div>
+  </div>
+
+  <!-- Imagem do GIF -->
+  <div align="right" style="margin-left: 20px;">
+    <img height="200" src="https://i.gifer.com/8K8b.gif" />
+  </div>
+</div>
