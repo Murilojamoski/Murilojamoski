@@ -1,22 +1,14 @@
 <h2 align="left">Oi! meu nome é Murilo</h2>
 
-### 
-
 <h3 align="left">Sobre Mim</h3>
-
-### 
 
 <p align="left">* Estudante de informática no IFC Araquari<br>* 16 anos<br>* Produtor Musical</p>
 
-### 
-
 <h3 align="left">Conhecimentos em:</h3>
 
-### 
-
-<div align="left" style="display: flex; align-items: center;">
+<div align="left" style="display: flex; align-items: flex-start;">
   <!-- Texto e ícones à esquerda -->
-  <div>
+  <div style="flex: 1;">
     <p align="left">* Estudante de informática no IFC Araquari<br>* 16 anos<br>* Produtor Musical</p>
     <h3 align="left">Conhecimentos em:</h3>
     <div align="left">
@@ -37,7 +29,7 @@
   </div>
 
   <!-- Imagem do GIF -->
-  <div align="right" style="margin-left: 20px;">
+  <div style="margin-left: 20px;">
     <img height="200" src="https://i.gifer.com/8K8b.gif" />
   </div>
 </div>
