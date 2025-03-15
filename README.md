@@ -1,6 +1,6 @@
 <h2 align="left">Oi! meu nome é Murilo</h2>
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
   <!-- Texto "Sobre Mim" -->
   <div style="flex: 1;">
     <h3 align="left">Sobre Mim</h3>
@@ -12,7 +12,7 @@
   </div>
 
   <!-- Imagem do GIF -->
-  <div style="margin-left: 20px;">
+  <div>
     <img height="200" src="https://i.gifer.com/8K8b.gif" />
   </div>
 </div>
