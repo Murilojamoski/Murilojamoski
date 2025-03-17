@@ -7,7 +7,6 @@
       <li>🎓 Estudante de Informática no <strong>IFC Araquari</strong>.</li>
       <li>🎂 16 anos.</li>
       <li>🎧 Produtor Musical nas horas vagas.</li>
-      <li>💡 Apaixonado por tecnologia, música e criação de projetos inovadores.</li>
     </ul>
   </div>
 
