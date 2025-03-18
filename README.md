@@ -30,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" height="40" alt="C" title="C" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vuejs/vuejs-original.svg" height="40" alt="Vue" title="Vue" />
 </div>
 
 <h2>Projetos e Interesses</h2>
