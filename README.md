@@ -50,6 +50,6 @@
 
 
   <div>
-    <img height="200" src="https://i.gifer.com/8K8b.gif" alt="GIF animado" />
+    <img height="200" src="https://media.tenor.com/qvSmcpS-kdIAAAAj/n-harmonia-n.gif" alt="GIF animado" />
   </div>
 </div>
