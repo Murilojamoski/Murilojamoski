@@ -5,7 +5,7 @@
     <h2>Sobre Mim</h2>
     <ul>
       <li>🎓 Estudante de Informática no <strong>IFC Araquari</strong>.</li>
-      <li>🎂 16 anos.</li>
+      <li>🎂 17 anos.</li>
       <li>🎧 Produtor Musical nas horas vagas.</li>
     </ul>
   </div>
