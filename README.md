@@ -35,7 +35,6 @@
 <h2>Projetos e Interesses</h2>
 
 <ul>
-  <li>🎮 Desenvolvimento de jogos com Unity.</li>
   <li>🌐 Criação de sites e aplicações web.</li>
   <li>🎵 Produção de músicas e trilhas sonoras.</li>
 </ul>
